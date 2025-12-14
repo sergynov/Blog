@@ -1,5 +1,0 @@
-export * from './autorization'
-export * from './registration'
-export * from './users/users'
-export * from './post/post'
-export * from './main/mainPage'
